@@ -17,12 +17,6 @@ This repository includes the following:
 - **Machine learning models** to predict outcomes based on patient metrics.
 - **Visualization scripts** to present findings in an intuitive manner.
 
-## Technologies Used
-- **Python** for data processing, analysis, and modeling.
-- **Pandas and NumPy** for data manipulation.
-- **Matplotlib and Seaborn** for visualization.
-- **Scikit-learn** for machine learning algorithms.
-
 ## Getting Started
 To get started with this project, follow the steps below:
 
