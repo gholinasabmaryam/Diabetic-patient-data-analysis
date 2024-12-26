@@ -45,21 +45,14 @@ To get started with this project, follow the steps below:
 - Integrate deep learning models for more complex analysis.
 - Explore real-time prediction capabilities.
 
-## Contributing
-Contributions are welcome! If you have ideas or improvements, feel free to:
-
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m "Add feature"`).
-4. Push to your branch (`git push origin feature-name`).
-5. Open a pull request.
-
 ## License
 This project does not have a formal license. You are free to use, modify, and share it as needed.
 
 ## Feedback
 Have suggestions or feedback? Feel free to reach out on GitHub:
 
-**GitHub:** [@gholinasabmaryam](https://github.com/gholinasabmaryam)
+[GitHub](https://github.com/gholinasabmaryam)
+
+[LinkedIn](https://www.linkedin.com/in/maryamgholinasab)
 
 Thank you for visiting this repository, and happy coding!
